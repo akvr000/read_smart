@@ -1,16 +1,57 @@
-# React + Vite
+>💡 This project is part of my journey to become a Software Engineer. I'm building it from scratch to learn modern web development, Firebase, and AI integration while creating a real-world application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📚 Read Smart
 
-Currently, two official plugins are available:
+**Read Smart** is an AI-powered PDF reader built with **React**, **Vite**, **Tailwind CSS**, and **Firebase**. It aims to make reading PDFs smarter by allowing users to interact with documents using AI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> 🚧 **Status:** This project is currently under active development. New features and improvements are being added regularly.
 
-## React Compiler
+## ✨ Planned Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📄 Upload and view PDF documents
+- 🤖 AI-powered chat with PDFs
+- 📝 AI-generated summaries
+- 🔍 Smart document search
+- 📌 Highlights and notes
+- 🔐 Firebase Authentication
+- ☁️ Cloud storage
+- 📚 Document library
+- 📱 Responsive UI
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Firebase *(Coming Soon)*
+- AI APIs *(Coming Soon)*
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/akvr000/read_smart.git
+cd readsmart-web
+npm install
+npm run dev
+```
+
+## 📅 Roadmap
+
+- [x] Project setup
+- [x] UI Design
+- [ ] PDF Upload
+- [ ] PDF Rendering
+- [ ] AI Chat
+- [ ] Authentication
+- [ ] Cloud Storage
+- [ ] Notes & Highlights
+- [ ] Deployment
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+## 📄 License
+
+This project is licensed under the MIT License.
